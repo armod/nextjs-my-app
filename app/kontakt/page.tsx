@@ -1,7 +1,7 @@
 import React from 'react'
 
 const Kontakt = () => {
-  console.log()
+  console.log('test')
   return <div>Kontakt</div>
 }
 
