@@ -30,6 +30,8 @@ export default function RootLayout({
       >
         <nav>
           <Link href='/kontakt'>Kontakt</Link>
+          <a href='/pages'>Pages</a>
+          <Link href='/'>Home</Link>
         </nav>
         {children}
       </body>
